@@ -1,0 +1,10 @@
+# Project Description
+
+In order for the current company to cut unnecessary costs, the data visualization app was changed from Periscope Data to Superset. To maintain consistency within the data, some changes were made to the query in order for the visualization to look the same. The migrated data contained 30 charts.
+
+## Skills and Deliverables
+
+**Superset**
+**SQL**
+**Redash**
+**Periscope**
