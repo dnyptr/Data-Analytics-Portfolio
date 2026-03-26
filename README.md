@@ -1,57 +1,58 @@
-# Data Analytics Portfolio
+# 📊 Data Analytics Portfolio
 
-Welcome to my Data Analytics Portfolio! This repository showcases various data analytics projects that demonstrate my expertise in data processing, visualization, and insights generation. Each project includes detailed explanations, code, and findings to highlight my analytical capabilities.
+Welcome to my Data Analytics Portfolio — a curated collection of projects demonstrating how I transform raw data into actionable business insights.
 
-## About Me
+---
 
-I'm Donny Agvie Putratama, a Business Intelligence Analyst with experience in data governance, analytics, and visualization. My work involves turning raw data into meaningful insights that drive decision-making.
+## 👤 About Me
 
-## Repository Structure
+I’m **Donny Agvie Putratama**, a Business Intelligence Analyst specializing in:
 
-This repository contains multiple projects categorized based on different analytical techniques and tools:
+* Data analytics & visualization
+* Data governance & reporting
+* Turning complex datasets into clear, decision-ready insights
 
-**Exploratory Data Analysis (EDA)**: Understanding data distributions, patterns, and trends.
+---
 
-**Data Visualization**: Using tools like Tableau, Power BI, and Matplotlib to present insights.
+## 📁 Repository Structure
 
-**Predictive Analytics**: Applying machine learning models for forecasting and predictions.
+This repository is organized into the following main sections:
 
-**SQL & Database Queries**: Writing optimized queries for data extraction and transformation.
+* **01-projects/**
+  Contains all portfolio projects, organized by tools and use cases
+  (e.g., Superset, Tableau, Qlik Sense, Power BI, etc.)
 
-**Business Intelligence Dashboards**: Creating interactive dashboards for business reporting.
+* **02-assets/**
+  Stores shared images, logos, and visual resources used across projects
 
-## Tools & Technologies
+* **03-notebooks/**
+  Contains standalone exploratory analysis notebooks
 
-Here are some of the tools and technologies I use in my projects:
+* **04-datasets/**
+  Contains sample or reference datasets (if included)
 
-**Programming Languages**: Python, SQL, R
+---
 
-**Data Visualization**: Power BI, Tableau, Matplotlib, Seaborn
+## 🛠️ Tools & Technologies
 
-**Data Processing**: Pandas, NumPy, ETL tools
+**Languages**
+Python · SQL
 
-**Machine Learning**: Scikit-learn, TensorFlow
+**Visualization**
+Power BI · Tableau · Qlik Sense · Superset · Periscope · Looker · Redash 
 
-**Cloud & Databases**: BigQuery, PostgreSQL, MySQL
+**Databases**
+BigQuery · PostgreSQL · MySQL · 
 
-## How to Use
+**Cloud & DevOps**
+AWS · Azure DevOps · Snowflake 
 
-Browse through the different projects in this repository.
+---
 
-Each project folder contains a README file explaining the objective, methodology, and results.
+## 📬 Contact
 
-Follow the instructions in each project folder to run the scripts and explore the analysis.
+* 🔗 LinkedIn: https://www.linkedin.com/in/dnyaptr/
+* 📧 Email: [donny.ap1997@gmail.com](mailto:donny.ap1997@gmail.com)
+* 💻 GitHub: https://github.com/dnyptr
 
-## Contact
-
-Feel free to connect with me for collaboration or discussions:
-
-**LinkedIn**: https://www.linkedin.com/in/dnyaptr/
-
-**Email**: donny.ap1997@gmail.com
-
-**GitHub**: https://github.com/dnyptr
-
-I hope you find my portfolio insightful. Enjoy exploring my work!
-
-  
+---
